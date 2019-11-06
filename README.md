@@ -14,7 +14,7 @@ Esse desafio do bootcamp consiste em adicionar funcionalidades extras ao projeto
 
 Seguem abaixo as funcionalidades extras:
 
-  - [ ] `Loading de repositórios`: Adicionar um indicador de loading utilizando `<ActivityIndicator />` antes de carregar a lista de repositórios favoritados na tela de perfil do Usuário.
+  - [x] `Loading de repositórios`: Adicionar um indicador de loading utilizando `<ActivityIndicator />` antes de carregar a lista de repositórios favoritados na tela de perfil do Usuário.
 
   - [ ] `Scroll infinito`: Assim que o usuário chegar nos 20% do final de lista, buscar pelos items na próxima página (de acordo com a paginação da API do GitHub) e adicionar na lista.
 
